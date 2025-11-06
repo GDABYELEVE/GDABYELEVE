@@ -17,8 +17,8 @@
 </div>
 
 ### 🧠 Sobre a GDA
-A **GDA (Gestão de Dados & Análise)** é o setor responsável por **engenharia de dados, automação e business intelligence** da **Eleve Suplementos**.  
-Com foco em eficiência e precisão, criamos soluções que **integram, tratam e analisam dados corporativos** em tempo real.
+A **GDA (Gestão de Dados & Análise)** é o setor responsável por ** análise de dados, engenharia de dados, automação** da **Eleve Suplementos**.  
+Com foco em eficiência e precisão, criamos soluções que **integram, tratam e analisam dados corporativos**.
 
 ---
 
