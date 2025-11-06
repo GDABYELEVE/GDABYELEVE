@@ -10,7 +10,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red?logo=microsoftsqlserver)
 ![Power BI](https://img.shields.io/badge/Power_BI-Analytics-yellow?logo=powerbi&logoColor=black)
 <!-- ![Automação](https://img.shields.io/badge/Automação-Python%20%7C%20n8n%20%7C%20APIs-success) -->
-![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+<!--![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)-->
 
 ---
 
